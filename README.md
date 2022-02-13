@@ -11,6 +11,17 @@ $: ```sudo chmod +x BatusLin.sh```
 
 $: ```./BatusLin.sh```
 
+## WARNING MACOS X!!
+Before running the script on macOS, write these 2 commands:
+
+$: ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+
+$: ```brew install dialog```
+
+They needs root permissions
+
+All versions BatusMac.sh tested on Catalina on vmware! There may be bugs and glitches!
+
 ## Editing
 i wrote all the code in kate.
 
