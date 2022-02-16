@@ -3,6 +3,8 @@ this is the sh where the standard bash commands for Ubuntu are collected in one 
 
 Russian only version now
 
+### Since version 1.1 batus for Android (Termux), Linux and Mac OS X have been merged into one file BatusLin.sh!
+
 ## Installing and running
 Before run check executing permissions.
 Type in terminal:
@@ -27,10 +29,28 @@ i wrote all the code in kate.
 
 The source code is clearly open source
 
+## Other OS than linux
+Android - batus in Android works with Termux. Use Linux versions.
+
+Mac OS X - Works good. Tested on OS X Catalina. Some features have not been tested. Use Linux versions.
+
+BSD - I have no way to check the work.
+
+WSL2 - Works good. Use Linux versions.
+
+ios/ipadOS and etc - There is no support due to the lack of dialog. Tested on iPhone 4s ios 6.1.3. It may be possible to run legacy versions without dialog. They are located here: https://github.com/Russanandres/batus/tree/main/linux%20versions NEEDS JAILBREAK
+
+ChromeOS/ChromiumOS - I have no way to check the work.
+
+*-DOS/OS!2 and etc legacy systems - there is no way to run.
+
+### Other systems will be tested.
+
 ## RoadMap
 - [x] Update linux version.
 - [ ] Make kdialog linux version
 - [ ] Make Linux mobile version
+- [x] Batus works on Android in Termux
 - [ ] Make Android version
 - [ ] Make Debian LiveCD with batusLin.sh and android-platform-tools
 - [x] Make MacOS x86 verison (or port linux ver)
