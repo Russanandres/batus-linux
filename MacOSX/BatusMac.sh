@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 VER="1.0 Amonsus"
 VERMENU="2 Bdielog"
 BACKTITLE="Batus For MacOS.sh"
@@ -160,6 +160,7 @@ do
                                          ;;
                                     2)break
                                          ;;
+									3) 
                                         cmd=(dialog --clear --backtitle "Debug" --title "Debug" --menu "Debug" 15 40 4)
                                         options=(1 "удалить логи"
                                                  2 "Показать логи"
@@ -171,7 +172,7 @@ do
                                         case $choice in
                                             1)rm -rf /tmp/BFL.sh_log.txt
                                                 ;;
-                                            2) cat /tmp/BFL.sh_log.txt ; pause ; break
+                                            2)cat /tmp/BFL.sh_log.txt ; pause ; break
                                                 ;;
                                             3)exit 255
                                                 ;;
