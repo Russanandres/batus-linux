@@ -1,7 +1,7 @@
 # BatusLin.sh
-this is the sh where the standard bash commands for Ubuntu are collected in one place
+this is the sh where the standard bash commands for *nix are collected in one place.
 
-Russian only version now
+Russian only version now!
 
 ### Since version 1.1 batus for Android (Termux), Linux and Mac OS X have been merged into one file BatusLin.sh!
 
@@ -38,7 +38,7 @@ BSD - I have no way to check the work.
 
 WSL2 - Works good. Use Linux versions.
 
-ios/ipadOS and etc - There is no support due to the lack of dialog. Tested on iPhone 4s ios 6.1.3. It may be possible to run legacy versions without dialog. They are located here: https://github.com/Russanandres/batus/tree/main/linux%20versions NEEDS JAILBREAK
+ios/ipadOS and etc - NEEDS JAILBREAK!!! There is no support due to the lack of dialog. Tested on iPhone 4s ios 6.1.3. Older versions without dialog work well with jailbreak. Perhaps versions with dialog work, but I don't know how to put it in the system. Use special releases in the BFL/iPhone directory.
 
 ChromeOS/ChromiumOS - I have no way to check the work.
 
@@ -49,9 +49,9 @@ ChromeOS/ChromiumOS - I have no way to check the work.
 ## RoadMap
 - [x] Update linux version.
 - [ ] Make kdialog linux version
-- [ ] Make Linux mobile version
+- [ ] Make touch version
 - [x] Batus works on Android in Termux
-- [ ] Make Android version
+- [ ] Make Android native version
 - [ ] Make Debian LiveCD with batusLin.sh and android-platform-tools
 - [x] Make MacOS x86 verison (or port linux ver)
 - [ ] All tasks complited :tada:
