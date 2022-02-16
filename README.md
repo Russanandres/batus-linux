@@ -32,6 +32,8 @@ The source code is clearly open source
 ## Other OS than linux
 Android - batus in Android works with Termux. Use Linux versions.
 
+WearOS - Works good in Termux. Use Linux versions.
+
 Mac OS X - Works good. Tested on OS X Catalina. Some features have not been tested. Use Linux versions.
 
 BSD - I have no way to check the work.
