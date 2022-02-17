@@ -44,6 +44,8 @@ WSL2 - Works good. Use Linux versions.
 
 SailfishOS - I have no way to check the work.
 
+Ubuntu touch - I have no way to check the work.
+
 ios/ipadOS and etc - NEEDS JAILBREAK!!! There is no support due to the lack of dialog. Tested on iPhone 4s ios 6.1.3. Older versions without dialog work well with jailbreak. Perhaps versions with dialog work, but I don't know how to put it in the system. Use special releases in the BFL/iPhone directory.
 
 ChromeOS/ChromiumOS - I have no way to check the work.
