@@ -40,6 +40,8 @@ Mac OS X - Works good. Tested on OS X Catalina. Some features have not been test
 
 BSD - I have no way to check the work.
 
+PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a bash port. For PlayStation 2/3 use PS2/3Linux.
+
 WSL2 - Works good. Use Linux versions.
 
 SailfishOS - I have no way to check the work.
