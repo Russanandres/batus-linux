@@ -2,6 +2,8 @@ All various specific and unremarkable versions.
 
 Old linux versions are here: https://github.com/Russanandres/batus/tree/main/linux%20versions
 
+### Versions marked with X are not supported.
+
 # Readme.md
 ## iPhone (iph.sh)
 These versions tested on iPhone 4s JailBreak 6.1.3. IDK if they work on other iPhones.
