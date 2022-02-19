@@ -32,7 +32,7 @@ The source code is clearly open source
 ## Other OS than linux
 Android - batus in Android works with Termux. Use Linux versions.
 
-Android recovery - Working legacy versions like iPhone builds. I'm working on a separate build.
+Android recovery - Working legacy versions like iPhone builds. Use BFR.zip in all verisons.
 
 WearOS - Works good in Termux. Use Linux versions.
 
@@ -52,7 +52,9 @@ ios/ipadOS and etc - NEEDS JAILBREAK!!! There is no support due to the lack of d
 
 ChromeOS/ChromiumOS - I have no way to check the work.
 
-*-DOS/OS!2 and etc legacy systems - there is no way to run.
+OS/2 - You can run in theory, but this has not been tested.
+
+*-DOS and etc legacy systems older than 2005 idk - there is no way to run.
 
 ### Other systems will be tested.
 
