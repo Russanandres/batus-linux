@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# BatusLin.sh
+this is the sh where the standard bash commands for *nix are collected in one place.
 
-You can use the [editor on GitHub](https://github.com/Russanandres/batus-linux/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Russian only version now!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Since version 1.1 batus for Android (Termux), Linux and Mac OS X have been merged into one file BatusLin.sh!
 
-### Markdown
+## Installing and running
+Before run check executing permissions.
+Type in terminal:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+$: ```sudo chmod +x BatusLin.sh```
 
-```markdown
-Syntax highlighted code block
+$: ```./BatusLin.sh```
 
-# Header 1
-## Header 2
-### Header 3
+## WARNING MACOS X!!
+Before running the script on macOS, write these 2 commands:
 
-- Bulleted
-- List
+$: ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
-1. Numbered
-2. List
+$: ```brew install dialog```
 
-**Bold** and _Italic_ and `Code` text
+They needs root permissions
 
-[Link](url) and ![Image](src)
-```
+All versions BatusMac.sh tested on Catalina on vmware! There may be bugs and glitches!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Editing
+i wrote all the code in kate.
 
-### Jekyll Themes
+The source code is clearly open source
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Russanandres/batus-linux/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Other OS than linux
+Android - batus in Android works with Termux. Use Linux versions.
 
-### Support or Contact
+Android recovery - Working legacy versions like iPhone builds. Use BFR.zip in all verisons.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+WearOS - Works good in Termux. Use Linux versions.
+
+Mac OS X - Works good. Tested on OS X Catalina. Some features have not been tested. Use Linux versions.
+
+BSD - I have no way to check the work.
+
+PocketBook - Works good, but need special release.
+
+PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a bash port. For PlayStation 2/3 use PS2/3Linux.
+
+WSL2 - Works good. Use Linux versions.
+
+SailfishOS - I have no way to check the work.
+
+Ubuntu touch - I have no way to check the work.
+
+ios/ipadOS and etc - NEEDS JAILBREAK!!! There is no support due to the lack of dialog. Tested on iPhone 4s ios 6.1.3. Older versions without dialog work well with jailbreak. Perhaps versions with dialog work, but I don't know how to put it in the system. Use special releases in the "For Legacy Systems" directory.
+
+ChromeOS/ChromiumOS - I have no way to check the work.
+
+OS/2 - You can run in theory, but this has not been tested.
+
+*-DOS and etc legacy systems older than 2005 idk - there is no way to run.
+
+### Other systems will be tested.
+
+## RoadMap
+- [x] Update linux version.
+- [ ] Make kdialog linux version
+- [ ] Make touch version
+- [x] Batus works on Android in Termux
+- [ ] Make Android native version
+- [ ] Make Debian LiveCD with batusLin.sh and android-platform-tools
+- [x] Make MacOS x86 verison (or port linux ver)
+- [ ] All tasks complited :tada:
+
+## Windows verisons
+All windows versions here: https://github.com/Russanandres/batus
