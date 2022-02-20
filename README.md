@@ -40,7 +40,7 @@ WearOS - Works good in Termux. Use Linux versions.
 
 Mac OS X - Works good. Tested on OS X Catalina. Some features have not been tested. Use Linux versions.
 
-BSD - I have no way to check the work, but I think it will start.
+BSD - Works perfect. Use Linux versions.
 
 PocketBook - Works good, but need special release.
 
