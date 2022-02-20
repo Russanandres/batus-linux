@@ -38,23 +38,25 @@ WearOS - Works good in Termux. Use Linux versions.
 
 Mac OS X - Works good. Tested on OS X Catalina. Some features have not been tested. Use Linux versions.
 
-BSD - I have no way to check the work.
+BSD - I have no way to check the work, but I think it will start.
 
 PocketBook - Works good, but need special release.
 
 PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a bash port. For PlayStation 2/3 use PS2/3Linux.
 
-WSL2 - Works good. Use Linux versions.
+WSL2 - Works good. Use Linux versions. Install dialog before starting!
 
-SailfishOS - I have no way to check the work.
+SailfishOS - I have no way to check the work, but I think it will start.
 
-Ubuntu touch - I have no way to check the work.
+Ubuntu touch - I have no way to check the work, but I think it will start.
+
+ChromeOS/ChromiumOS - I have no way to check the work, but I think it will start.
 
 ios/ipadOS and etc - NEEDS JAILBREAK!!! There is no support due to the lack of dialog. Tested on iPhone 4s ios 6.1.3. Older versions without dialog work well with jailbreak. Perhaps versions with dialog work, but I don't know how to put it in the system. Use special releases in the "For Legacy Systems" directory.
 
-ChromeOS/ChromiumOS - I have no way to check the work.
-
 OS/2 - You can run in theory, but this has not been tested.
+
+Symbian S60 9.3 - It is possible to launch only if the phone has a touch screen. I have nokia without it(
 
 *-DOS and etc legacy systems older than 2005 idk - there is no way to run.
 
