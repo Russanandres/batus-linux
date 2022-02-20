@@ -3,6 +3,8 @@ this is the sh where the standard bash commands for *nix are collected in one pl
 
 Russian only version now!
 
+Описание на русском языке здесь: https://russanandres.github.io/batus-linux/
+
 ### Since version 1.1 batus for Android (Termux), Linux and Mac OS X have been merged into one file BatusLin.sh!
 
 ## Installing and running
