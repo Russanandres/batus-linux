@@ -1,74 +1,76 @@
 # BatusLin.sh
-this is the sh where the standard bash commands for *nix are collected in one place.
+Скрипт для unix систем, где все стандарнтые команды собраны в удобное меню.
 
-Russian only version now!
+Только русская версия
 
-### Since version 1.1 batus for Android (Termux), Linux and Mac OS X have been merged into one file BatusLin.sh!
+### С версии 1.1 batus для Android (Termux), Linux и Mac OS X интегрированны в один фаил BatusLin.sh!
 
-## Installing and running
-Before run check executing permissions.
-Type in terminal:
+## Установка и запуск
+Перед запуском проверьте разрешения
+Наберите в терминале:
 
 $: ```sudo chmod +x BatusLin.sh```
 
 $: ```./BatusLin.sh```
 
-## WARNING MACOS X!!
-Before running the script on macOS, write these 2 commands:
+## ПРЕДУПРЕЖДЕНИЕ ДЛЯ MACOS X!!
+Перед запуском скрипта на MacOS наберите эти 2 команды:
 
 $: ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
 $: ```brew install dialog```
 
-They needs root permissions
+Для них нужны ROOT права
 
-All versions BatusMac.sh tested on Catalina on vmware! There may be bugs and glitches!
+Совместимость проверенна на Catalina в vmware! Могут быть глюки и не работающие функции!
 
-## Editing
-i wrote all the code in kate.
+## Редактирование
+Я написал весь код в Kate редакторе.
 
-The source code is clearly open source
+Код полностью открыт для просмотра и изучения.
 
-## Other OS than linux
-Android - batus in Android works with Termux. Use Linux versions.
+## Другие системы кроме Linux
+Android - Работает хорошо в Termux. Используйте Linux версию.
 
-Android recovery - Working legacy versions like iPhone builds. Use BFR.zip in all verisons.
+Android recovery - Работают старые версии. Используйте BFR.zip в дирерктории все версии.
 
-WearOS - Works good in Termux. Use Linux versions.
+WearOS - Работает хорошо в Termux. Используйте Linux версию.
 
-Mac OS X - Works good. Tested on OS X Catalina. Some features have not been tested. Use Linux versions.
+Mac OS X - Работает отлично. Проверено OS X Catalina. Некоторые функции не тестированны. Используйте Linux версию.
 
-BSD - I have no way to check the work.
+BSD - У меня нет возможности проверить работу, но я думаю он запустится.
 
-PocketBook - Works good, but need special release.
+PocketBook - Работает хорошо, сделан специальный релиз.
 
-PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a bash port. For PlayStation 2/3 use PS2/3Linux.
+PSVita/XMB - Я не нашёл порт терминала. BFLS запустится, если портируют sh. для PlayStation 2/3 установите PS2/3Linux.
 
-WSL2 - Works good. Use Linux versions.
+WSL2 - Работает нативно. Используйте Linux версию. Перед запуском установите dialog!
 
-SailfishOS - I have no way to check the work.
+SailfishOS - У меня нет возможности проверить работу, но я думаю он запустится.
 
-Ubuntu touch - I have no way to check the work.
+Ubuntu touch - У меня нет возможности проверить работу, но я думаю он запустится.
 
-ios/ipadOS and etc - NEEDS JAILBREAK!!! There is no support due to the lack of dialog. Tested on iPhone 4s ios 6.1.3. Older versions without dialog work well with jailbreak. Perhaps versions with dialog work, but I don't know how to put it in the system. Use special releases in the "For Legacy Systems" directory.
+ios/ipadOS и подобное - НУЖЕН JAILBREAK!!! Нет полноценной поддержки из-за отсутствия dialog. Проверенно iPhone 4s ios 6.1.3. Старые версии без dialog работают нормально. Предполагаю что можно запустить полноценную версию, но я не знаю как запихнуть dialog в систему. Используйте специальные релизы в "For Legacy Systems" директории.
 
-ChromeOS/ChromiumOS - I have no way to check the work.
+ChromeOS/ChromiumOS - У меня нет возможности проверить работу, но я думаю он запустится.
 
-OS/2 - You can run in theory, but this has not been tested.
+OS/2 - В теории вы можете запустить, но я не проверял.
 
-*-DOS and etc legacy systems older than 2005 idk - there is no way to run.
+Symbian S60 9.3 - Есть возможность запуска только если телефон с сенсорным экраном. У меня нокия без него(
 
-### Other systems will be tested.
+*-DOS и другие ОС старше 2005 наверн - нет возможности запуска без bash.
 
-## RoadMap
-- [x] Update linux version.
-- [ ] Make kdialog linux version
-- [ ] Make touch version
-- [x] Batus works on Android in Termux
-- [ ] Make Android native version
-- [ ] Make Debian LiveCD with batusLin.sh and android-platform-tools
-- [x] Make MacOS x86 verison (or port linux ver)
-- [ ] All tasks complited :tada:
+### Остальные системы будут тестироватся
 
-## Windows verisons
-All windows versions here: https://github.com/Russanandres/batus
+## Список дел
+- [x] Обновить linux версию.
+- [ ] Сделать версию на kdialog
+- [ ] Сделать версию для сеносрных экранов
+- [x] Запустить Batus в андроид
+- [ ] Сделать нативную андроид версию
+- [ ] Сделать Debian LiveCD с batusLin.sh и android-platform-tools
+- [x] Сделать MacOS x86 версию (или портировать linux версию)
+- [ ] Всё сделанно! :tada:
+
+## Windows версии
+Все windows версии доступны здесь: https://github.com/Russanandres/batus
