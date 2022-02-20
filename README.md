@@ -8,6 +8,8 @@ Russian only version now!
 ### Since version 1.1 batus for Android (Termux), Linux and Mac OS X have been merged into one file BatusLin.sh!
 
 ## Installing and running
+[Download latest version](https://github.com/Russanandres/batus-linux/tree/main/all%20versions/lastversion) | [From GitHub releases](https://github.com/Russanandres/batus-linux/releases) | [If you havent dialog](https://github.com/Russanandres/batus-linux/tree/main/For%20Legacy%20Systems)
+
 Before run check executing permissions.
 Type in terminal:
 
