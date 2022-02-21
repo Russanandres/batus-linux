@@ -7,7 +7,7 @@
 ## Как мне выбрать правильную версию?
 Вот небольшая табилца:
 
-![Здесь:](https://github.com/Russanandres/batus-linux/blob/gh-pages/MSpaint.png)
+https://github.com/Russanandres/batus-linux/blob/gh-pages/MSpaint.png
 
 ## Установка и запуск
 [Скачать последнюю версию](https://github.com/Russanandres/batus-linux/tree/main/all%20versions/lastversion) | [с GitHub releases](https://github.com/Russanandres/batus-linux/releases) | [Если у вас нет dialog](https://github.com/Russanandres/batus-linux/tree/main/For%20Legacy%20Systems)
@@ -48,6 +48,9 @@ BSD - Работает прекрасно. Используйте Linux верс
 
 PocketBook - Работает хорошо, сделан специальный релиз.
 
+Windows Mobile 5/6 - Я просто не могу перекинуть batus на мой eten лол. Скорее всего заработает [версия под windows](https://github.com/Russanandres/batus
+).
+
 PSVita/XMB - Я не нашёл порт терминала. BFLS запустится, если портируют sh. для PlayStation 2/3 установите PS2/3Linux.
 
 WSL2 - Работает нативно. Используйте Linux версию. Перед запуском установите dialog!
@@ -79,4 +82,4 @@ Symbian S60 9.3 - Есть возможность запуска только е
 - [ ] Всё сделанно! :tada:
 
 ## Windows версии
-Все windows версии доступны здесь: https://github.com/Russanandres/batus
+[Все windows версии доступны здесь](https://github.com/Russanandres/batus)
