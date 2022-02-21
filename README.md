@@ -51,6 +51,8 @@ BSD - Works perfect. Use Linux versions.
 
 PocketBook - Works good, but need special release.
 
+WM5/6 - I just can't transfer batus to my eten lol. Most likely the [version under windows](https://github.com/Russanandres/batus) will earn.
+
 PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a bash port. For PlayStation 2/3 use PS2/3Linux.
 
 WSL2 - Works good. Use Linux versions. Install dialog before starting!
@@ -82,4 +84,4 @@ Symbian S60 9.3 - It is possible to launch only if the phone has a touch screen.
 - [ ] All tasks complited :tada:
 
 ## Windows verisons
-All windows versions here: https://github.com/Russanandres/batus
+[All windows versions here](https://github.com/Russanandres/batus)
