@@ -39,25 +39,27 @@ i wrote all the code in kate.
 The source code is clearly open source
 
 ## Other OS than linux
-Android - batus in Android works with Termux. Use Linux versions.
+Android - batus in Android works with Termux. Use Linux versions. Install dialog before starting!
 
-Android recovery - Working legacy versions like iPhone builds. Use BFR.zip in all verisons.
+Android recovery - Works good. Use BFR.zip in all verisons.
 
-WearOS - Works good in Termux. Use Linux versions.
+WearOS - Works good in Termux. Use Linux versions. Install dialog before starting!
 
-Mac OS X - Works good. Tested on OS X Catalina. Some features have not been tested. Use Linux versions.
+Mac OS X - Works good. Tested on OS X Catalina. Read warning! Use Linux versions.
 
 BSD - Works perfect. Use Linux versions.
 
 PocketBook - Works good, but need special release.
 
-WM5/6 - I just can't transfer batus to my eten lol. Most likely the [version under windows](https://github.com/Russanandres/batus) will earn.
+WM5/6 - I just can't transfer batus to my Eten lol. Most likely the [version under windows](https://github.com/Russanandres/batus) will earn.
 
 PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a bash port. For PlayStation 2/3 use PS2/3Linux.
 
 WSL2 - Works good. Use Linux versions. Install dialog before starting!
 
 SailfishOS - I have no way to check the work, but I think it will start.
+
+Maemo 5 - Works good. Use BFLS versions.
 
 Ubuntu touch - I have no way to check the work, but I think it will start.
 
