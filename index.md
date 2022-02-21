@@ -4,6 +4,10 @@
 Только русская версия
 
 ### С версии 1.1 batus для Android (Termux), Linux и Mac OS X интегрированны в один фаил BatusLin.sh!
+## Как мне выбрать правильную версию?
+Вот небольшая табилца:
+
+![Здесь:](https://github.com/Russanandres/batus-linux/blob/gh-pages/MSpaint.png)
 
 ## Установка и запуск
 [Скачать последнюю версию](https://github.com/Russanandres/batus-linux/tree/main/all%20versions/lastversion) | [с GitHub releases](https://github.com/Russanandres/batus-linux/releases) | [Если у вас нет dialog](https://github.com/Russanandres/batus-linux/tree/main/For%20Legacy%20Systems)
