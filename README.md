@@ -61,7 +61,7 @@ SailfishOS - I have no way to check the work, but I think it will start.
 
 Maemo 5 - Works good. Use BFLS versions.
 
-Ubuntu touch - I have no way to check the work, but I think it will start.
+Ubuntu touch - Works good. Use BFLS versions.
 
 ChromeOS/ChromiumOS - I have no way to check the work, but I think it will start.
 
