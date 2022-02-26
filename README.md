@@ -33,6 +33,9 @@ They needs root permissions
 
 All versions BatusMac.sh tested on Catalina on vmware! There may be bugs and glitches!
 
+## Batus Live CD
+This is the first version of the Live system, there will be many glitches and system instability. Due to incorrect settings, the first release version (1 Air) is without DE. But you can put it there if your Linux knowledge is high and you can decompile .squashfs. BLS (BatusLiveCD, not to be confused with BFLS) has built-in additional applications such as adb, fastboot, etc., as well as all the necessary files for BFL to work. To update BFL, use the built-in tools in the script (Make sure you have a stable connection!). The BLS update will be added by script in the next versions. BLS will be supported on amd64 and i686. UEFI operation has not been tested! About ARM is not known. Many thanks to [Oros42 for the CustomDebian script](https://github.com/Oros42/CustomDebian).
+
 ## Editing
 i wrote all the code in kate.
 
@@ -81,7 +84,7 @@ Symbian S60 9.3 - It is possible to launch only if the phone has a touch screen.
 - [ ] Make touch version
 - [x] Batus works on Android in Termux
 - [ ] Make Android native version
-- [ ] Make Debian LiveCD with batusLin.sh and android-platform-tools
+- [x] Make Debian LiveCD with batusLin.sh and android-platform-tools
 - [x] Make MacOS x86 verison (or port linux ver)
 - [ ] All tasks complited :tada:
 
