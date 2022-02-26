@@ -1,4 +1,5 @@
-## [Download](https://drive.google.com/file/d/13N-7sjfd_6RGhdMg2uMQ-JcaQv9PWjYM/view?usp=sharing)
+## [Download x64](https://drive.google.com/file/d/13N-7sjfd_6RGhdMg2uMQ-JcaQv9PWjYM/view?usp=sharing)
+## Download x32 (not finished)
 ## About system
 
 This is the first version of the Live system, there will be many glitches and system instability. Due to incorrect settings, the first release version (1 Air) is without DE. But you can put it there if your Linux knowledge is high and you can decompile .squashfs. BLS (BatusLiveCD, not to be confused with BFLS) has built-in additional applications such as adb, fastboot, etc., as well as all the necessary files for BFL to work. To update BFL, use the built-in tools in the script (Make sure you have a stable connection!). The BLS update will be added by script in the next versions. BLS will be supported on amd64 and i686. UEFI operation has not been tested! About ARM is not known. Many thanks to Oros42 for the CustomDebian script.
