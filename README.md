@@ -13,7 +13,7 @@ Here is a small table:
 ![Here:](https://github.com/Russanandres/batus-linux/blob/gh-pages/MSpaint.png)
 
 ## Installing and running
-[Download latest version](https://github.com/Russanandres/batus-linux/tree/main/all%20versions/lastversion) | [From GitHub releases](https://github.com/Russanandres/batus-linux/releases) | [If you havent dialog](https://github.com/Russanandres/batus-linux/tree/main/For%20Legacy%20Systems)
+[Download latest version](https://github.com/Russanandres/batus-linux/tree/main/all%20versions/lastversion) | [From GitHub releases](https://github.com/Russanandres/batus-linux/releases) | [If you havent dialog](https://github.com/Russanandres/batus-linux/tree/main/For%20Legacy%20Systems) | [Download LiveCD](https://github.com/Russanandres/batus-linux/tree/main/BatusLiveCD)
 
 Before run check executing permissions.
 Type in terminal:
