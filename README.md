@@ -60,7 +60,7 @@ PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a ba
 
 WSL2 - Works good. Use Linux versions. Install dialog before starting!
 
-SailfishOS - I have no way to check the work, but I think it will start.
+SailfishOS - Works good. Use BFLS versions.
 
 Maemo 5 - Works good. Use BFLS versions.
 
