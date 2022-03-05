@@ -52,7 +52,7 @@ Mac OS X - Works good. Tested on OS X Catalina. Read warning! Use Linux versions
 
 BSD - Works perfect. Use Linux versions.
 
-PocketBook - Works good, but need special release.
+PocketBook - Works good, but need special release. Use bfpb
 
 WM5/6 - I just can't transfer batus to my Eten lol. Most likely the [version under windows](https://github.com/Russanandres/batus) will earn.
 
