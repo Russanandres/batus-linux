@@ -56,7 +56,9 @@ PocketBook - Works good, but need special release. Use bfpb
 
 WM5/6 - I just can't transfer batus to my Eten lol. Most likely the [version under windows](https://github.com/Russanandres/batus) will earn.
 
-PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a bash port. For PlayStation 2/3 use PS2/3Linux.
+PSVita/XMB - I couldn't find a terminal. BFLS will be supported if there is a bash port.
+
+PS2/PS3 - Yes in OtherOS. Use any port.
 
 WSL2 - Works good. Use Linux versions. Install dialog before starting!
 
