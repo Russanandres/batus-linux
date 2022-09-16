@@ -90,7 +90,7 @@ Symbian S60 9.3 - It is possible to launch only if the phone has a touch screen.
 - [x] Make Debian LiveCD with batusLin.sh and android-platform-tools
 - [ ] Make Batus Recovery Project 
 - [x] Make MacOS x86 verison (or port linux ver)
-- [ ] All tasks complited :tada:
+- [ ] All tasks completed :tada:
 
 ## Windows verisons
 [All windows versions here](https://github.com/Russanandres/batus)
