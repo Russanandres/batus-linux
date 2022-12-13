@@ -82,7 +82,7 @@ Symbian S60 9.3 - It is possible to launch only if the phone has a touch screen.
 
 ## RoadMap
 - [x] Update linux version.
-- [ ] Make kdialog linux version
+- [x] Make kdialog linux version
 - [ ] Make touch version
 - [x] Batus works on Android in Termux
 - [ ] Make Android native version
