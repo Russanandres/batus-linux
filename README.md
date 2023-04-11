@@ -1,3 +1,5 @@
+# forgotten?
+
 # BatusLin.sh
 this is the sh where the standard bash commands for *nix are collected in one place, something like a toolbox.
 
